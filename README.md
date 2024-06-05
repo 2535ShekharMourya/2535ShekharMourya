@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shekhar Mourya</h1>
 <h3 align="center">A passionate Mobile App Developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif](https://th.bing.com/th/id/R.9862fc374032ae1f77500486a21b445f?rik=wgfCsyRFfq%2bjjg&riu=http%3a%2f%2fwww.touchmediaads.com%2fforimg%2fmapp1.4.gif&ehk=V0sj5iHTK3OI9dfyREP4qvADHYP27xtXJu9lMYdJOss%3d&risl=&pid=ImgRaw&r=0)"
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2535shekharmourya&label=Profile%20views&color=0e75b6&style=flat" alt="2535shekharmourya" /> </p>
 
